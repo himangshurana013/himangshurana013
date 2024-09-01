@@ -40,9 +40,3 @@ Feel free to reach out via:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=himangshurana013&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangshurana013&layout=compact&theme=radical)
-
-## 🚀 Support
-
-If you like my work, consider supporting me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
