@@ -16,7 +16,6 @@
 - ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-Wireless%20Security-blue?logo=aircrack-ng) Wireless network security
 
 ### **Programming Languages**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Programming%20Language-yellow?logo=javascript)
 - ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue?logo=python)
 - ![C](https://img.shields.io/badge/C-Programming%20Language-blue?logo=c)
 
